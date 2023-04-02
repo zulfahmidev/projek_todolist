@@ -1,10 +1,11 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
+// ht'@nuxt/image-edge'tps://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   
   modules: [
     '@nuxtjs/tailwindcss',
     'nuxt-icon',
-    'nuxt-vuefire'
+    'nuxt-vuefire',
+    '@nuxt/image-edge'
   ],
   
   vuefire: {
