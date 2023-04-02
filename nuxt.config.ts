@@ -7,7 +7,7 @@ export default defineNuxtConfig({
     'nuxt-vuefire',
     '@nuxt/image-edge'
   ],
-  
+
   vuefire: {
     config: {
       apiKey: "AIzaSyDDUGKbxKwCUuokdKHv_I1WdcC8F8rtLZM",
