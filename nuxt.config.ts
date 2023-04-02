@@ -17,9 +17,6 @@ export default defineNuxtConfig({
       appId: "1:402485305094:web:d15cff8cdf35e5c21c4887",
       measurementId: "G-H937Y5EK6N"
     },
-    admin: {
-      serviceAccount: '~/assets/credentials.json',
-    },
     auth: true,
     appCheck: {
       debug: process.env.NODE_ENV !== 'production',
