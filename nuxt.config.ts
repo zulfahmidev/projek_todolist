@@ -18,7 +18,7 @@ export default defineNuxtConfig({
       measurementId: "G-H937Y5EK6N"
     },
     admin: {
-      serviceAccount: 'assets/credentials.json',
+      serviceAccount: '~/assets/credentials.json',
     },
     auth: true,
     appCheck: {
